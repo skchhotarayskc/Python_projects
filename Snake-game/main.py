@@ -44,14 +44,4 @@ while is_game_on:
             score_board.game_over()
             is_game_on = False
 
-
-
-
-
-
-
-
-
-
-
 screen.exitonclick()
